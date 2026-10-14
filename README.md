@@ -1,9 +1,10 @@
 ## Hi there 👋
 
+
+My name is Noorul, and I'm a PhD student in Biological sciences and Artificial Intelligence
+
 <!--
 **nfabdulkafoor/nfabdulkafoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-# My name is Noorul, and I'm a PhD student in Biological sciences and Artificial Intelligence
 
 Here are some ideas to get you started:
 
